@@ -37,7 +37,7 @@ Y efectivamente, hay conflictos, se resuelven de acuerdo a como indica el ejerci
 
 `git checkout master`
 
-git merge styled`
+`git merge styled`
 
 
 ### Diagrama de git
@@ -76,6 +76,7 @@ se consigue entonces el hash de ese commit en particular
 `git reset --hard <hash>`
 
 el proceso se hace todavia mejor si se utilizan tags (particularmente utilizo un sistema de tags v#.#)
+
 
 ### Volver al commit inicial
 
