@@ -35,7 +35,7 @@ Y efectivamente, hay conflictos, se resuelven de acuerdo a como indica el ejerci
 
 ### Merge con 'styled' desde 'master'
 
-`git checkout master
+`git checkout master`
 
 git merge styled`
 
