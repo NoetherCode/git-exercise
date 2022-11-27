@@ -1,4 +1,5 @@
-#Respuesta a las preguntas de la Practica 1 (git)
+# Respuesta a las preguntas de la Practica 1 (git)
+
 
 ### Deshacer el ultimo commit (perdiendo cambios en working copy)
 
